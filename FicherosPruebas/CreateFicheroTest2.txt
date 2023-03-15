@@ -1,0 +1,12 @@
+Esto es un fichero que contiene los logs de la aplicacion:
+
+Canarianplay:20230315: Todo bien mi planito
+Canarianplay:20230315: Todo bien mi planito
+Canarianplay:20230315: Todo bien mi planito
+Canarianplay:20230315: Todo bien mi planito
+Canarianplay:20230315: Todo bien mi planito
+Canarianplay:20230315: Todo bien mi planito
+Canarianplay:20230315: ERR: Aquí paso algo no se sabe con que
+Canarianplay:20230315: Todo bien mi planito
+Canarianplay:20230315: Todo bien mi planito
+Canarianplay:20230315: Estoy cansando y tengo sueño
