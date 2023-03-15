@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/CreateOpenWriteFileConsoleApplication/x64/Debug/CreateOp.ead728c7.tlog
+/CreateOpenWriteFileConsoleApplication/.vs/CreateOpenWriteFileConsoleApplication/v17
+/CreateOpenWriteFileConsoleApplication/.vs/CreateOpenWriteFileConsoleApplication/FileContentIndex
+/CreateOpenWriteFileConsoleApplication/x64/Debug
