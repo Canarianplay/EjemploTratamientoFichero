@@ -1,6 +1,0 @@
-Este es un fichero de test para comprobar lo siguiente 
-    1. Fichero creado en una ruta especifica (OK) 
-    2. Comprobamos que nuestro fichero ha sido abierto correctamente (OK)
-    3. Comprobamos que somos capaces de escribir en nuestro fichero (OK)
-    4. Comprobamos que leemos nuestro fichero (OK)
-    5. Comprobamos que se muestra el contenido del fichero (OK)
